@@ -26,6 +26,7 @@ body{
     box-shadow: 0 0 1rem rgba(0,0,0,0.1);
     font-size: 8vmin;
     color: red;
+    background-color: #f7f7f7;
 }
 .container{
     height:70vh;
